@@ -3,6 +3,7 @@
 Check out my latest content!
 
 ## Recent Blog Posts
+- [The Secret Google Veo 3.1 Prompts Pro Creators Use](https://blog.bananathumbnail.com/google-veo-31/)
 
 <!-- Blog posts will be added here automatically -->
 
