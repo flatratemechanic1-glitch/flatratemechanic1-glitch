@@ -11,4 +11,4 @@ Check out my latest content!
 
 ---
 
-*Powered by [Banana Thumbnail](https://blog.bananathumbnail.com)*(https://bananathumbnail.com)
+*Powered by [Banana Thumbnail](https://bananathumbnail.com)
