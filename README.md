@@ -3,11 +3,11 @@
 Check out my latest content!
 
 ## Recent Blog Posts
+- [How to Edit Photos with AI: Complete Guide for 2025](https://blog.bananathumbnail.com/how-to-edit-photos-with-ai/)
 - [Best AI Tools for Content Creators 2025: Complete Guide](https://blog.bananathumbnail.com/best-ai-tools-for-content-creators-2025/)
 - [AI Tools Social Media Graphics: Best Picks](https://blog.bananathumbnail.com/ai-tools-social-media-graphics/)
 - [Best AI Tools for Content Creators in 2025 | Top 15 Platforms](https://blog.bananathumbnail.com/ai-tools-for-content-creators-2025/)
 - [Best AI Thumbnail Generators 2025: Expert Reviews &#038; Tests](https://blog.bananathumbnail.com/best-ai-thumbnail-generators-2025/)
-- [AI Image Quality: Pro vs Amateur Photography 2025 Guide](https://blog.bananathumbnail.com/ai-image-quality-professional-photography/)
 
 <!-- Blog posts will be added here automatically -->
 
