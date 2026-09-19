@@ -3,11 +3,11 @@
 Check out my latest content!
 
 ## Recent Blog Posts
+- [Z-Image Slow? Fix These 5 Critical Mistakes](https://blog.bananathumbnail.com/z-image-3/)
 - [ComfyUI Z-Image: Sub-Second AI Image Generation](https://blog.bananathumbnail.com/comfyui-z-image-2/)
 - [Sora to YouTube Workflow: Step-by-Step Guide](https://blog.bananathumbnail.com/sora-to-youtube-workflow-2/)
 - [ChatGPT Image Mistakes Destroying Your CTR](https://blog.bananathumbnail.com/chatgpt-images-3/)
 - [7 Grok AI Mistakes to Avoid for Safe Images](https://blog.bananathumbnail.com/grok-ai-4/)
-- [Sora 2 Guide: Create Pro 4K Videos with OpenAI](https://blog.bananathumbnail.com/sora-2-2/)
 
 <!-- Blog posts will be added here automatically -->
 
